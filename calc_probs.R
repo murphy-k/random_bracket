@@ -1,4 +1,3 @@
-
 library("stringr")
 
 calc_prob_table <- function(df){

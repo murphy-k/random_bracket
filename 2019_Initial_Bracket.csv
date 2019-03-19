@@ -1,0 +1,65 @@
+﻿quadrant,round,rnd1,rnd2,rnd3,seed,teamname
+W,1,1,1,1,1,Duke
+W,1,1,1,1,16,N. Dakota St./NC Central 
+W,1,2,1,1,8,VCU
+W,1,2,1,1,9,UCF
+W,1,3,2,1,5,Mississippi St.
+W,1,3,2,1,12,Liberty
+W,1,4,2,1,4,Virgina Tech
+W,1,4,2,1,13,Saint Louis
+W,1,5,3,2,6,Maryland
+W,1,5,3,2,11,Belmont/Temple
+W,1,6,3,2,3,LSU
+W,1,6,3,2,14,Yale
+W,1,7,4,2,7,Louisville
+W,1,7,4,2,10,Minnesota
+W,1,8,4,2,2,Michigan St. 
+W,1,8,4,2,15,Bradley
+X,1,1,1,1,1,Virgina
+X,1,1,1,1,16,Gardner-Webb
+X,1,2,1,1,8,Mississippi
+X,1,2,1,1,9,Oklahoma
+X,1,3,2,1,5,Wisconsin
+X,1,3,2,1,12,Oregon
+X,1,4,2,1,4,Kansas St. 
+X,1,4,2,1,13,UC Irvine
+X,1,5,3,2,6,Villanova
+X,1,5,3,2,11,Saint Mary's
+X,1,6,3,2,3,Purdue 
+X,1,6,3,2,14,Old Dominion
+X,1,7,4,2,7,Cincinnati
+X,1,7,4,2,10,Iowa
+X,1,8,4,2,2,Tennessee
+X,1,8,4,2,15,Colgate
+Y,1,1,1,1,1,Gonzaga
+Y,1,1,1,1,16,Prairie View/F. Dickinson
+Y,1,2,1,1,8,Syracuse
+Y,1,2,1,1,9,Baylor
+Y,1,3,2,1,5,Marquette
+Y,1,3,2,1,12,Murray St. 
+Y,1,4,2,1,4,Florida St. 
+Y,1,4,2,1,13,Vermont
+Y,1,5,3,2,6,Buffalo
+Y,1,5,3,2,11,Arizona St./St. John's
+Y,1,6,3,2,3,Texas Tech 
+Y,1,6,3,2,14,Northern Ky.
+Y,1,7,4,2,7,Nevada
+Y,1,7,4,2,10,Florida
+Y,1,8,4,2,2,Michigan
+Y,1,8,4,2,15,Montana
+Z,1,1,1,1,1,North Carolina
+Z,1,1,1,1,16,Iona
+Z,1,2,1,1,8,Utah St. 
+Z,1,2,1,1,9,Washington
+Z,1,3,2,1,5,Auburn
+Z,1,3,2,1,12,New Mexico St. 
+Z,1,4,2,1,4,Kansas St. 
+Z,1,4,2,1,13,Northeastern
+Z,1,5,3,2,6,Iowa St. 
+Z,1,5,3,2,11,Ohio St. 
+Z,1,6,3,2,3,Houston
+Z,1,6,3,2,14,Georgia St. 
+Z,1,7,4,2,7,Wofford
+Z,1,7,4,2,10,Seton Hall
+Z,1,8,4,2,2,Kentucky
+Z,1,8,4,2,15,Abilene Christ. 

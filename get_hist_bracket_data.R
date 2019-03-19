@@ -69,13 +69,9 @@ get_bracket <- function(year){
 }
 
 # espn goes back to 2002...
-years <- 2002:2017
+years <- 2002:2018
 
 tmp <- lapply(years, get_bracket)
 df <- do.call("rbind", tmp)
 
 write.csv(df, "NCAA_mens_tournament_scores.csv", row.names=FALSE)
-
-  
-  
- 

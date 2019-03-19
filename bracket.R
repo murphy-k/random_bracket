@@ -1,5 +1,5 @@
 
-brkt <- read.csv("2018_initial_bracket.csv", as.is=TRUE, stringsAsFactors=FALSE)
+brkt <- read.csv("2019_initial_bracket.csv", as.is=TRUE, stringsAsFactors=FALSE)
 source("calc_probs.R")
 score_data <- read.csv("NCAA_mens_tournament_scores.csv", stringsAsFactors=FALSE)
 probs <- calc_prob_table(score_data)
