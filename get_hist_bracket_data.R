@@ -1,5 +1,3 @@
-
-
 library("rvest")
 library("stringr")
 library("xml2")

@@ -21,4 +21,5 @@ print(paste(
   "has won the most out of all simulations"
 ))
 }
-sim(100000,1)
+
+sim(10000,1)
