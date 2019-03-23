@@ -1,12 +1,13 @@
 library(plyr)
 library(dplyr)
+library(ggplot2)
 bracket_generate()
 
-sim <- function(n,i){results <-
+results <-
   rdply(
-    .n = n,
+    .n = 100,
     .expr = bracket_generate(),
-    .progress = "tk",
+    .progress = "text",
     .id =
   )
 results <-
@@ -14,12 +15,9 @@ results <-
 
 
 
-print(paste(
-  tail(names(sort(
-    table(results$`Winning Team`)
-  )), n = i),
-  "has won the most out of all simulations"
-))
-}
+print(paste(tail(names(sort(
+  table(results$`Winning Team`)
+)), n = 5), "has won the most out of all simulations"))
 
-sim(10000,1)
+ggplot(data = results, aes(x = results$`Winning Team`)) + geom_bar() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
