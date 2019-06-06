@@ -1,14 +1,14 @@
 library(plyr)
 library(dplyr)
 library(ggplot2)
+
 bracket_generate()
 
 results <-
   rdply(
-    .n = 100,
+    .n = 10000,
     .expr = bracket_generate(),
-    .progress = "text",
-    .id =
+    .progress = progress_time()
   )
 results <-
   `colnames<-`(results, c("Simulation Number", "Winning Team"))

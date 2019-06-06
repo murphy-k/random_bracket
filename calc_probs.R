@@ -43,3 +43,4 @@ calc_prob_table <- function(df) {
   matchup_tab$first <- matchup_tab$second <- NULL
   return(matchup_tab)
 }
+
