@@ -39,8 +39,7 @@ calc_prob_table <- function(df) {
   matchup_tab$first <- as.numeric(sapply(tmp, "[", 1))
   matchup_tab$second <- as.numeric(sapply(tmp, "[", 2))
   matchup_tab <- matchup_tab[order(matchup_tab$first,
-                                   matchup_tab$second), ]
+                                   matchup_tab$second),]
   matchup_tab$first <- matchup_tab$second <- NULL
   return(matchup_tab)
 }
-

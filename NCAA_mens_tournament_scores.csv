@@ -191,7 +191,7 @@
 "Illinois","1","72","Louisville","4 ","57","4",2005
 "North Carolina","1","87","Michigan State","5 ","71","4",2005
 "Illinois","1 ","70","North Carolina","1","75","2",2005
-"Illinois","1","67","Fair. Dickinson","16 ","55","64",2005
+"Illinois","1","67","FDU","16 ","55","64",2005
 "Texas","8 ","57","Nevada","9","61","64",2005
 "Alabama","5 ","73","Milwaukee","12","83","64",2005
 "Boston College","4","85","Penn","13 ","65","64",2005
@@ -576,7 +576,7 @@
 "Xavier","6 ","55","Marquette","11","66","64",2011
 "Syracuse","3","77","Indiana State","14 ","60","64",2011
 "Washington","7","68","Georgia","10 ","65","64",2011
-"North Carolina","2","102","LIU Brooklyn","15 ","87","64",2011
+"North Carolina","2","102","Long Island","15 ","87","64",2011
 "Ohio State","1","98","George Mason","8 ","66","32",2011
 "West Virginia","5 ","63","Kentucky","4","71","32",2011
 "Marquette","11","66","Syracuse","3 ","62","32",2011
@@ -647,7 +647,7 @@
 "Kentucky","1","102","Indiana","4 ","90","16",2012
 "Baylor","3","75","Xavier","10 ","70","16",2012
 "Kentucky","1","82","Baylor","3 ","70","8",2012
-"Michigan State","1","89","LIU Brooklyn","16 ","67","64",2012
+"Michigan State","1","89","Long Island","16 ","67","64",2012
 "Memphis","8 ","54","Saint Louis","9","61","64",2012
 "New Mexico","5","75","Long Beach St","12 ","68","64",2012
 "Louisville","4","69","Davidson","13 ","62","64",2012
@@ -1007,24 +1007,24 @@
 "North Carolina","1","92","Butler","4 ","80","16",2017
 "UCLA","3 ","75","Kentucky","2","86","16",2017
 "North Carolina","1","75","Kentucky","2 ","73","8",2017
-"Loyola-Chicago","11 ","57","Michigan","3","69","4",2018
+"Loyola Chicago","11 ","57","Michigan","3","69","4",2018
 "Villanova","1","95","Kansas","1 ","79","4",2018
 "Michigan","3 ","62","Villanova","1","79","2",2018
 "Virginia","1 ","54","UMBC","16","74","64",2018
 "Creighton","8 ","59","Kansas State","9","69","64",2018
 "Kentucky","5","78","Davidson","12 ","73","64",2018
 "Arizona","4 ","68","Buffalo","13","89","64",2018
-"Miami","6 ","62","Loyola-Chicago","11","64","64",2018
+"Miami","6 ","62","Loyola Chicago","11","64","64",2018
 "Tennessee","3","73","Wright State","14 ","47","64",2018
 "Nevada","7","87","Texas","10 ","83","64",2018
 "Cincinnati","2","68","Georgia State","15 ","53","64",2018
 "UMBC","16 ","43","Kansas State","9","50","32",2018
 "Kentucky","5","95","Buffalo","13 ","75","32",2018
-"Loyola-Chicago","11","63","Tennessee","3 ","62","32",2018
+"Loyola Chicago","11","63","Tennessee","3 ","62","32",2018
 "Nevada","7","75","Cincinnati","2 ","73","32",2018
 "Kansas State","9","61","Kentucky","5 ","58","16",2018
-"Loyola-Chicago","11","69","Nevada","7 ","68","16",2018
-"Kansas State","9 ","62","Loyola-Chicago","11","78","8",2018
+"Loyola Chicago","11","69","Nevada","7 ","68","16",2018
+"Kansas State","9 ","62","Loyola Chicago","11","78","8",2018
 "Xavier","1","102","Texas Southern","16 ","83","64",2018
 "Missouri","8 ","54","Florida State","9","67","64",2018
 "Ohio State","5","81","South Dakota St","12 ","73","64",2018
@@ -1070,3 +1070,66 @@
 "Kansas","1","80","Clemson","5 ","76","16",2018
 "Syracuse","11 ","65","Duke","2","69","16",2018
 "Kansas","1","85","Duke","2 ","81","8",2018
+"Michigan State","2 ","51","Texas Tech","3","61","4",2019
+"Virginia","1","63","Auburn","5 ","62","4",2019
+"Texas Tech","3 ","77","Virginia","1","85","2",2019
+"Duke","1","85","North Dakota St","16 ","62","64",2019
+"VCU","8 ","58","UCF","9","73","64",2019
+"Mississippi St","5 ","76","Liberty","12","80","64",2019
+"Virginia Tech","4","66","Saint Louis","13 ","52","64",2019
+"Maryland","6","79","Belmont","11 ","77","64",2019
+"LSU","3","79","Yale","14 ","74","64",2019
+"Louisville","7 ","76","Minnesota","10","86","64",2019
+"Michigan State","2","76","Bradley","15 ","65","64",2019
+"Duke","1","77","UCF","9 ","76","32",2019
+"Liberty","12 ","58","Virginia Tech","4","67","32",2019
+"Maryland","6 ","67","LSU","3","69","32",2019
+"Minnesota","10 ","50","Michigan State","2","70","32",2019
+"Duke","1","75","Virginia Tech","4 ","73","16",2019
+"LSU","3 ","63","Michigan State","2","80","16",2019
+"Duke","1 ","67","Michigan State","2","68","8",2019
+"Gonzaga","1","87","FDU","16 ","49","64",2019
+"Syracuse","8 ","69","Baylor","9","78","64",2019
+"Marquette","5 ","64","Murray State","12","83","64",2019
+"Florida State","4","76","Vermont","13 ","69","64",2019
+"Buffalo","6","91","Arizona State","11 ","74","64",2019
+"Texas Tech","3","72","N Kentucky","14 ","57","64",2019
+"Nevada","7 ","61","Florida","10","70","64",2019
+"Michigan","2","74","Montana","15 ","55","64",2019
+"Gonzaga","1","83","Baylor","9 ","71","32",2019
+"Murray State","12 ","62","Florida State","4","90","32",2019
+"Buffalo","6 ","58","Texas Tech","3","78","32",2019
+"Florida","10 ","49","Michigan","2","64","32",2019
+"Gonzaga","1","72","Florida State","4 ","58","16",2019
+"Texas Tech","3","63","Michigan","2 ","44","16",2019
+"Gonzaga","1 ","69","Texas Tech","3","75","8",2019
+"Virginia","1","71","Gardner-Webb","16 ","56","64",2019
+"Ole Miss","8 ","72","Oklahoma","9","95","64",2019
+"Wisconsin","5 ","54","Oregon","12","72","64",2019
+"Kansas State","4 ","64","UC Irvine","13","70","64",2019
+"Villanova","6","61","Saint Mary's","11 ","57","64",2019
+"Purdue","3","61","Old Dominion","14 ","48","64",2019
+"Cincinnati","7 ","72","Iowa","10","79","64",2019
+"Tennessee","2","77","Colgate","15 ","70","64",2019
+"Virginia","1","63","Oklahoma","9 ","51","32",2019
+"Oregon","12","73","UC Irvine","13 ","54","32",2019
+"Villanova","6 ","61","Purdue","3","87","32",2019
+"Iowa","10 ","77","Tennessee","2","83","32",2019
+"Virginia","1","53","Oregon","12 ","49","16",2019
+"Purdue","3","99","Tennessee","2 ","94","16",2019
+"Virginia","1","80","Purdue","3 ","75","8",2019
+"North Carolina","1","88","Iona","16 ","73","64",2019
+"Utah State","8 ","61","Washington","9","78","64",2019
+"Auburn","5","78","New Mexico St","12 ","77","64",2019
+"Kansas","4","87","Northeastern","13 ","53","64",2019
+"Iowa State","6 ","59","Ohio State","11","62","64",2019
+"Houston","3","84","Georgia State","14 ","55","64",2019
+"Wofford","7","84","Seton Hall","10 ","68","64",2019
+"Kentucky","2","79","Abil Christian","15 ","44","64",2019
+"North Carolina","1","81","Washington","9 ","59","32",2019
+"Auburn","5","89","Kansas","4 ","75","32",2019
+"Ohio State","11 ","59","Houston","3","74","32",2019
+"Wofford","7 ","56","Kentucky","2","62","32",2019
+"North Carolina","1 ","80","Auburn","5","97","16",2019
+"Houston","3 ","58","Kentucky","2","62","16",2019
+"Auburn","5","77","Kentucky","2 ","71","8",2019

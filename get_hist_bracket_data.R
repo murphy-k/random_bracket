@@ -83,13 +83,13 @@ get_bracket <- function(year) {
   }
   df <- as.data.frame(df, stringsAsFactors = FALSE)
   remove <- !is.na(suppressWarnings(as.numeric(df$team1_name)))
-  df <- df[!remove, ]
+  df <- df[!remove,]
   df$year <- year
   return(df)
 }
 
 # espn goes back to 2002...
-years <- 2002:2018
+years <- 2002:2019
 
 tmp <- lapply(years, get_bracket)
 df <- do.call("rbind", tmp)
